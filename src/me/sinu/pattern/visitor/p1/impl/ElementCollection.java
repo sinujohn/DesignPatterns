@@ -29,7 +29,7 @@ public class ElementCollection implements Visitable{
 
 	public ElementCollection(String name) {
 		this.name = name;
-		list = new ArrayList<>();
+		list = new ArrayList<Element>();
 	}
 	
 	public void add(Element element1) {
