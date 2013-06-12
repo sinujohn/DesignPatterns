@@ -1,0 +1,7 @@
+This package contains programs that show Singleton Pattern.
+
+More here : http://java.dzone.com/articles/singleton-design-pattern-%E2%80%93
+
+me.sinu.pattern.singleton.p1 - Simple Singleton without thread synchronization
+me.sinu.pattern.singleton.p2 - Shows the problem with the Simple Singleton (in p1) in multithreaded environment.
+me.sinu.pattern.singleton.p3 - Thread safe Singleton 
